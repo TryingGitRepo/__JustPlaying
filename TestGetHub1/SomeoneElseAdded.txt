@@ -1,6 +1,6 @@
 this is some text. This is an edit. bThis is an edit again.
 duped
 this was after a file added on GitHub
-againZXCZXc
+againZXCZXcZXc
 
 
